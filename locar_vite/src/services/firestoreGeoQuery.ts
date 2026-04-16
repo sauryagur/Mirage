@@ -15,27 +15,21 @@ export interface NearbyMirage {
 const MOCK_MIRAGES: (NearbyMirage)[] = [
   {
     id: "mock-1",
-    lat: 30.353900264615234,
-    lng: 76.36834756032006,
-    question: "What is the name of the main gate?",
+    lat: 30.35397165845741,
+    lng: 76.36852031805073,
+    question: "Mock",
   },
   {
-    id: "mock-2",
-    lat: 30.353961610020384,
-    lng: 76.36880761995873,
-    question: "How many floors does the library have?",
+    id: "Mock2",
+    lat: 30.355172894369623,
+    lng: 76.36852836497275,
+    question: "fnajifn"
   },
   {
-    id: "mock-3",
-    lat: 30.354048629884918,
-    lng: 76.36853765450897,
-    question: "Who founded the college?",
-  },
-  {
-    id: "lol",
-    lat: 30.35374514027677,
-    lng: 76.36862818115806,
-    question: "HAWWWWWWWWW",
+    id: "Mock3",
+    lat: 30.355979554759276,
+    lng: 76.37142805743615,
+    question: "fnrehgbejfbhelifbwjkal"
   }
 ];
 
@@ -93,7 +87,7 @@ export async function queryWithinRadius(mirages: Map<string, NearbyMirage>, {
       const question = data.questions[i] as NearbyMirage;
       if (!mirages.get(question.id)) mirages.set(question.id, question);
     }
-    
+
   } catch (err) {
     console.error("Mirage API error:", err);
   }
@@ -132,15 +126,15 @@ export async function checkAnswer({ questionId, answer, userId, lat, lng }: {
       }),
     });
     const body = await response.json();
-    
+
     if (response.ok) {
       return { correct: true, message: "Correct Answer", nextHint: body.nextHint };
     }
-    
+
     // Enhanced error handling with specific error types
     let message = body.message || body.error || "An error occurred";
     const errorType = body.error;
-    
+
     // Provide user-friendly messages based on error type
     if (errorType === "Out of range") {
       message = body.message || `You're too far from the target. Please move closer and try again.`;
@@ -155,17 +149,17 @@ export async function checkAnswer({ questionId, answer, userId, lat, lng }: {
     } else if (errorType === "Too many requests") {
       message = body.message || "Please wait a moment before trying again.";
     }
-    
-    return { 
-      correct: false, 
+
+    return {
+      correct: false,
       message,
       errorType,
       distance: body.distance
     };
   } catch (error) {
     console.error("Network error in checkAnswer:", error);
-    return { 
-      correct: false, 
+    return {
+      correct: false,
       message: "Network error. Please check your connection and try again.",
       errorType: "Network error"
     };

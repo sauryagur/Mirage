@@ -147,7 +147,7 @@ export class MirageARManager {
     await queryWithinRadius(this.mirages, {
       center: this.currentUserPos,
       userId: this.user?.uid || "user-is-useless",
-      useMockData: false
+      useMockData: true
     });
 
     const loader = new GLTFLoader();
@@ -218,17 +218,17 @@ export class MirageARManager {
     }
   }
 
-private onCubeClicked(id: string, mesh: THREE.Mesh) {
-  console.log("Cube clicked:", id);
-  // mesh.userData should exist (we set it above). Fallback to parent group if needed:
-  let data = mesh.userData as NearbyMirage | undefined;
-  if (!data) {
-    let node: THREE.Object3D | null = mesh;
-    while (node && !node.userData?.id) node = node.parent;
-    data = node?.userData as NearbyMirage | undefined;
+  private onCubeClicked(id: string, mesh: THREE.Mesh) {
+    console.log("Cube clicked:", id);
+    // mesh.userData should exist (we set it above). Fallback to parent group if needed:
+    let data = mesh.userData as NearbyMirage | undefined;
+    if (!data) {
+      let node: THREE.Object3D | null = mesh;
+      while (node && !node.userData?.id) node = node.parent;
+      data = node?.userData as NearbyMirage | undefined;
+    }
+    if (data) this.onCubeClick?.(data, this.ev);
   }
-  if (data) this.onCubeClick?.(data, this.ev);
-}
 
   private clearCubes() {
     this.activeCubes.forEach((group) => {
