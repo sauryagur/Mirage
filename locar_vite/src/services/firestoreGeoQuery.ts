@@ -30,6 +30,12 @@ const MOCK_MIRAGES: (NearbyMirage)[] = [
     lat: 30.355979554759276,
     lng: 76.37142805743615,
     question: "fnrehgbejfbhelifbwjkal"
+  },
+  {
+    id: "H Hostel",
+    lat: 30.353007723841603,
+    lng: 76.36462147993524,
+    question: "bgjskdlgbjaksdlgjnsk"
   }
 ];
 
