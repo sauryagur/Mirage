@@ -394,7 +394,7 @@ app.get(
       })),
     });
   }
-) 
+)
 
 app.listen(PORT, '0.0.0.0', async () => {
   logger.info(`${PORT} is now in use`);
