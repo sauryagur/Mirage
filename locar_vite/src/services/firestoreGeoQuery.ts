@@ -46,7 +46,10 @@ interface MirageQueryOptions {
 }
 
 // Use environment variable with fallback for development
-const BACKEND_DOMAIN = import.meta.env.VITE_BACKEND_URL || "http://10.223.141.252:3000";
+const BACKEND_DOMAIN = import.meta.env.VITE_BACKEND_URL;
+if (BACKEND_DOMAIN == undefined) {
+  throw new Error("Backend URL not defined!");
+}
 
 export async function queryWithinRadius(mirages: Map<string, NearbyMirage>, {
   center,
