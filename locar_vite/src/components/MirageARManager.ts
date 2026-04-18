@@ -147,7 +147,7 @@ export class MirageARManager {
     await queryWithinRadius(this.mirages, {
       center: this.currentUserPos,
       userId: this.user?.uid || "user-is-useless",
-      useMockData: true
+      useMockData: false
     });
 
     const loader = new GLTFLoader();
