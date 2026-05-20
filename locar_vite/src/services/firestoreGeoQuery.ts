@@ -55,7 +55,7 @@ export async function queryWithinRadius(mirages: Map<string, NearbyMirage>, {
   center,
   // teamId,
   userId,
-  useMockData = true,
+  useMockData = false,
 }: MirageQueryOptions): Promise<void> {
   const endpoint = "/api/getTarget";
   try {

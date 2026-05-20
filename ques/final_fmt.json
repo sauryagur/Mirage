@@ -1,0 +1,492 @@
+[
+  {
+    "LOCATION": "Just Foods",
+    "HINT": "Late night cravings",
+    "QUESTION": "I speak without a mouth and hear without ears. I have no body but I come alive with wind",
+    "ANSWER": "Echo",
+    "COORD": {
+      "_latitude": 30.3530065,
+      "_longitude": 76.3649788
+    }
+  },
+  {
+    "LOCATION": "Hockey Ground",
+    "HINT": "Badal pe paao hain",
+    "QUESTION": "I have an audience but no film. A stage but no curtain. A mic but often no signal. What am I?",
+    "ANSWER": "Open Air Theatre",
+    "COORD": {
+      "_latitude": 30.355107,
+      "_longitude": 76.3633803
+    }
+  },
+  {
+    "LOCATION": "Volley Ball",
+    "HINT": "(Don’t change)",
+    "QUESTION": "In C, what is the output of: printf(\"%d\", 2 + 3 * 2); ?",
+    "ANSWER": "8",
+    "COORD": {
+      "_latitude": 30.3554702,
+      "_longitude": 76.3654865
+    }
+  },
+  {
+    "LOCATION": "OAT",
+    "HINT": "A healthy breakfast meal",
+    "QUESTION": "What English word, when reversed, gives another common English word? Hint: One means to plunder, the other is an implement. (4 letters)",
+    "ANSWER": "LOOT → TOOL",
+    "COORD": {
+      "_latitude": 30.3535847,
+      "_longitude": 76.3633212
+    }
+  },
+  {
+    "LOCATION": "PL LAB 2",
+    "HINT": "#include<stdio.h>",
+    "QUESTION": "Ranbir Kapoor's character in Wake Up Sid had this as his true passion. Name the hobby.",
+    "ANSWER": "Photography",
+    "COORD": {
+      "_latitude": 30.3554899,
+      "_longitude": 76.3698342
+    }
+  },
+  {
+    "LOCATION": "Main Gate 2",
+    "HINT": "Can I get some fruits please?",
+    "QUESTION": "I grow in dirt but I'm not a plant. I'm soft but not a pillow. Walk on me and I won't complain. What am I?",
+    "ANSWER": "Grass",
+    "COORD": {
+      "_latitude": 30.3560135,
+      "_longitude": 76.3724057
+    }
+  },
+  {
+    "LOCATION": "Hostel M",
+    "HINT": "Skywalk 2.0",
+    "QUESTION": "What is 0 * (1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9)? No calculator needed, genius.",
+    "ANSWER": "0",
+    "COORD": {
+      "_latitude": 30.3533146,
+      "_longitude": 76.3611196
+    }
+  },
+  {
+    "LOCATION": "LP Lawn",
+    "HINT": "Neon Race",
+    "QUESTION": "Name the sport where scoring zero is called a 'duck' and the ground is called a 'pitch.'",
+    "ANSWER": "Cricket",
+    "COORD": {
+      "_latitude": 30.3548092,
+      "_longitude": 76.3681415
+    }
+  },
+  {
+    "LOCATION": "E Block Hostel M",
+    "HINT": "Hotel -  Wing V",
+    "QUESTION": "A child has 7 balloons. She gives away half after popping one. How many does she have left?",
+    "ANSWER": "3",
+    "COORD": {
+      "_latitude": 30.353372,
+      "_longitude": 76.3591026
+    }
+  },
+  {
+    "LOCATION": "AS1",
+    "HINT": "1 Boys ka 2 Girls ka",
+    "QUESTION": "I cut without a blade and join without glue. Engineers fear me and love me too. I'm powered by a program, not a hand. What am I?",
+    "ANSWER": "CNC Machine",
+    "COORD": {
+      "_latitude": 30.3551617,
+      "_longitude": 76.3690992
+    }
+  },
+  {
+    "LOCATION": "Children Park",
+    "HINT": "Park near Chancellor's House",
+    "QUESTION": "Which Indian author wrote 'The White Tiger' and won the Booker Prize?",
+    "ANSWER": "Aravind Adiga",
+    "COORD": {
+      "_latitude": 30.3575966,
+      "_longitude": 76.369736
+    }
+  },
+  {
+    "LOCATION": "Library Store",
+    "HINT": "ABC",
+    "QUESTION": "In Dil Chahta Hai, the iconic trio goes on a road trip. Name the coastal Indian state they visit.",
+    "ANSWER": "Goa",
+    "COORD": {
+      "_latitude": 30.3549806,
+      "_longitude": 76.3702247
+    }
+  },
+  {
+    "LOCATION": "Agira",
+    "HINT": "Hostel road ka pehla boys hostel",
+    "QUESTION": "The blood type of 28% of Indians. Also your GPA goal. What is it?",
+    "ANSWER": "A",
+    "COORD": {
+      "_latitude": 30.3516632,
+      "_longitude": 76.364487
+    }
+  },
+  {
+    "LOCATION": "Forest",
+    "HINT": "Jungle book",
+    "QUESTION": "In machine learning, what is the term for when a model performs great on training data but fails on new data?",
+    "ANSWER": "Overfitting",
+    "COORD": {
+      "_latitude": 30.3575937,
+      "_longitude": 76.3721171
+    }
+  },
+  {
+    "LOCATION": "SAI LAB",
+    "HINT": "Env. Building",
+    "QUESTION": "A standard deck has 4 suits. What is the product of the number of suits and the number of face cards per suit?",
+    "ANSWER": "12",
+    "COORD": {
+      "_latitude": 30.3567227,
+      "_longitude": 76.3716816
+    }
+  },
+  {
+    "LOCATION": "Girls' Hostel Cluster",
+    "HINT": "No boys allowed",
+    "QUESTION": "The more you take, the more you leave behind",
+    "ANSWER": "Footsteps",
+    "COORD": {
+      "_latitude": 30.354512,
+      "_longitude": 76.3672916
+    }
+  },
+  {
+    "LOCATION": "Aahar",
+    "HINT": "Aha-yaaaarrr",
+    "QUESTION": "Which Indian cricketer holds the world record for the most centuries in Test cricket?",
+    "ANSWER": "Sachin Tendulkar",
+    "COORD": {
+      "_latitude": 30.3533049,
+      "_longitude": 76.3721812
+    }
+  },
+  {
+    "LOCATION": "Vice Chancellor House",
+    "HINT": "White house of campus",
+    "QUESTION": "Kurt Cobain's iconic band gave us 'Smells Like Teen Spirit.' Name the band.",
+    "ANSWER": "Nirvana",
+    "COORD": {
+      "_latitude": 30.3574137,
+      "_longitude": 76.3707629
+    }
+  },
+  {
+    "LOCATION": "Q Hostel Nirvana side gate",
+    "HINT": "9-5 open",
+    "QUESTION": "A triangle has angles in the ratio 1:2:3. What is the largest angle in degrees?",
+    "ANSWER": "90",
+    "COORD": {
+      "_latitude": 30.3529197,
+      "_longitude": 76.3674097
+    }
+  },
+  {
+    "LOCATION": "Easter egg-2",
+    "HINT": "Least busy T point",
+    "QUESTION": "In FRIENDS, what was the name of Ross's first ex-wife who left him for another woman?",
+    "ANSWER": "Carol",
+    "COORD": {
+      "_latitude": 30.3569211,
+      "_longitude": 76.3703606
+    }
+  },
+  {
+    "LOCATION": "FRG",
+    "HINT": "Faculty house turned hostel",
+    "QUESTION": "I'm the element with atomic number 1. The most abundant in the universe. I power the sun. What am I?",
+    "ANSWER": "Hydrogen",
+    "COORD": {
+      "_latitude": 30.3545273,
+      "_longitude": 76.3592011
+    }
+  },
+  {
+    "LOCATION": "H Block",
+    "HINT": "Fateh ka ghar",
+    "QUESTION": "A batsman scores 100, 50, and 0 in three innings. What is their batting average across these three innings?",
+    "ANSWER": "50",
+    "COORD": {
+      "_latitude": 30.35318,
+      "_longitude": 76.3730943
+    }
+  },
+  {
+    "LOCATION": "Cricket Ground",
+    "HINT": "Lao apna gili danda",
+    "QUESTION": "Milkha Singh was nicknamed 'The Flying _____.' Fill in the blank.",
+    "ANSWER": "Sikh",
+    "COORD": {
+      "_latitude": 30.3557429,
+      "_longitude": 76.3635064
+    }
+  },
+  {
+    "LOCATION": "Sports Office",
+    "HINT": "Idhar se lo apna gili danda",
+    "QUESTION": "I am always running but never get tired. I have a bed but never sleep. I have a mouth but never eat.",
+    "ANSWER": "River",
+    "COORD": {
+      "_latitude": 30.3554738,
+      "_longitude": 76.3648085
+    }
+  },
+  {
+    "LOCATION": "TAN",
+    "HINT": "Aao betho kursi par, kursi boli chatter patter",
+    "QUESTION": "In trigonometry, what is the exact value of tan(45°)?",
+    "ANSWER": "1",
+    "COORD": {
+      "_latitude": 30.3538855,
+      "_longitude": 76.368416
+    }
+  },
+  {
+    "LOCATION": "Volleyball Court",
+    "HINT": "Punch the ball over the net",
+    "QUESTION": "I shave every day, but my beard stays the same",
+    "ANSWER": "Barber",
+    "COORD": {
+      "_latitude": 30.3555322,
+      "_longitude": 76.3655003
+    }
+  },
+  {
+    "LOCATION": "FRE",
+    "HINT": "Faculty house turned hostel",
+    "QUESTION": "Which organelle is called the 'powerhouse of the cell'? (Yes, it had to be asked.)",
+    "ANSWER": "Mitochondria",
+    "COORD": {
+      "_latitude": 30.3550875,
+      "_longitude": 76.3601337
+    }
+  },
+  {
+    "LOCATION": "Bio-Practical Space",
+    "HINT": "Engineering college mei medical?",
+    "QUESTION": "If you invest ₹1000 at 10% simple interest per year for 2 years, what is the total amount at maturity?",
+    "ANSWER": "1200",
+    "COORD": {
+      "_latitude": 30.3569499,
+      "_longitude": 76.3685278
+    }
+  },
+  {
+    "LOCATION": "B Block",
+    "HINT": "Accountancy peaks here",
+    "QUESTION": "In the show Scam 1992, what was Harshad Mehta's most iconic quoted phrase that became a meme?",
+    "ANSWER": "Risk hai toh ishq hai",
+    "COORD": {
+      "_latitude": 30.35305258785167,
+      "_longitude": 76.36995668914177
+    }
+  },
+  {
+    "LOCATION": "Hostel K",
+    "HINT": "Hostel Kishore Kumar",
+    "QUESTION": "February has 28 days in a regular year. How many months in a year have at least 28 days?",
+    "ANSWER": "12",
+    "COORD": {
+      "_latitude": 30.356934,
+      "_longitude": 76.3636574
+    }
+  },
+  {
+    "LOCATION": "Health Centre back garden",
+    "HINT": "Laal paani dedo",
+    "QUESTION": "The Great Pyramid of Giza is located in which country?",
+    "ANSWER": "Egypt",
+    "COORD": {
+      "_latitude": 30.3559738,
+      "_longitude": 76.3683524
+    }
+  },
+  {
+    "LOCATION": "Hostel J",
+    "HINT": "Aadha tuta hua hostel",
+    "QUESTION": "Lord Shiva's mount (vehicle/vahana) is which animal?",
+    "ANSWER": "Bull",
+    "COORD": {
+      "_latitude": 30.3529893,
+      "_longitude": 76.36376
+    }
+  },
+  {
+    "LOCATION": "Mandir",
+    "HINT": "Result se pehle yaad karte ho",
+    "QUESTION": "What is the currency of Japan?",
+    "ANSWER": "Yen",
+    "COORD": {
+      "_latitude": 30.3527692,
+      "_longitude": 76.3629146
+    }
+  },
+  {
+    "LOCATION": "DOAA",
+    "HINT": "Permission plz",
+    "QUESTION": "In binary, what is the decimal value of 1010?",
+    "ANSWER": "10",
+    "COORD": {
+      "_latitude": 30.3553798,
+      "_longitude": 76.3709131
+    }
+  },
+  {
+    "LOCATION": "West Gate",
+    "HINT": "West coast of thapar",
+    "QUESTION": "What is the only even prime number?",
+    "ANSWER": "2",
+    "COORD": {
+      "_latitude": 30.3526007,
+      "_longitude": 76.3596813
+    }
+  },
+  {
+    "LOCATION": "ECED",
+    "HINT": "I see bread on board, circuit on move",
+    "QUESTION": "In architecture, what is the triangular gable at the end of a pitched roof called ; also seen on Greek temples?",
+    "ANSWER": "Pediment",
+    "COORD": {
+      "_latitude": 30.3536529,
+      "_longitude": 76.3714765
+    }
+  },
+  {
+    "LOCATION": "Hostel D Mess",
+    "HINT": "Campus ke kone wali mess",
+    "QUESTION": "The Indian Postal Service uses PIN codes. What does PIN stand for?",
+    "ANSWER": "Postal Index Number",
+    "COORD": {
+      "_latitude": 30.3513933,
+      "_longitude": 76.3598545
+    }
+  },
+  {
+    "LOCATION": "Project and Real Estate",
+    "HINT": "Campus thodne ki planning idhar hoti hai",
+    "QUESTION": "What is the sum of interior angles of a pentagon?",
+    "ANSWER": "540",
+    "COORD": {
+      "_latitude": 30.3564131,
+      "_longitude": 76.3653564
+    }
+  },
+  {
+    "LOCATION": "Main Gate",
+    "HINT": "Scan nahi ho raha",
+    "QUESTION": "LPG is actually odourless. What chemical is added to give it that distinctive smell for safety detection?",
+    "ANSWER": "Ethyl Mercaptan",
+    "COORD": {
+      "_latitude": 30.3526661,
+      "_longitude": 76.3717126
+    }
+  },
+  {
+    "LOCATION": "Polytechnic",
+    "HINT": "Ye konsa rasta hai",
+    "QUESTION": "In Studio Ghibli's Spirited Away, what is Chihiro's new name given to her by the witch Yubaba?",
+    "ANSWER": "Sen",
+    "COORD": {
+      "_latitude": 30.3576384,
+      "_longitude": 76.3678403
+    }
+  },
+  {
+    "LOCATION": "STP Store Room 2",
+    "HINT": "Clouds you can smell",
+    "QUESTION": "I am the only internal organ in the human body that can fully regenerate itself. What am I?",
+    "ANSWER": "Liver",
+    "COORD": {
+      "_latitude": 30.3568491,
+      "_longitude": 76.3598919
+    }
+  },
+  {
+    "LOCATION": "Nirvana (near kravings)",
+    "HINT": "Amiro ka adda",
+    "QUESTION": "Which word in the dictionary is always spelled incorrectly?",
+    "ANSWER": "Incorrectly",
+    "COORD": {
+      "_latitude": 30.3537018,
+      "_longitude": 76.3667993
+    }
+  },
+  {
+    "LOCATION": "FRF",
+    "HINT": "Faculty house turned hostel",
+    "QUESTION": "In which city is Rashtrapati Bhavan located ; also the city where power and pollution compete for first place?",
+    "ANSWER": "New Delhi",
+    "COORD": {
+      "_latitude": 30.3550979,
+      "_longitude": 76.3590532
+    }
+  },
+  {
+    "LOCATION": "G Block Canteen",
+    "HINT": "Kangaalo ka adda",
+    "QUESTION": "The person who makes it has no need for it. The person who buys it doesn’t use it. The person who DOES use it can neither see nor feel it.",
+    "ANSWER": "Coffin",
+    "COORD": {
+      "_latitude": 30.352849,
+      "_longitude": 76.3690341
+    }
+  },
+  {
+    "LOCATION": "Main Audi",
+    "HINT": "Opening ceremony",
+    "QUESTION": "One shirt takes 2 hours to dry alone in the sun. How long do 10 shirts take if hung simultaneously in the same sun (in hours)?",
+    "ANSWER": "2",
+    "COORD": {
+      "_latitude": 30.35236712134574,
+      "_longitude": 76.37073318442505
+    }
+  },
+  {
+    "LOCATION": "Parking",
+    "HINT": "Lagao apni Thar",
+    "QUESTION": "Which letter appears most frequently in written English?",
+    "ANSWER": "E",
+    "COORD": {
+      "_latitude": 30.3520807,
+      "_longitude": 76.3688044
+    }
+  },
+  {
+    "LOCATION": "Mangla",
+    "HINT": "Thapar's inhouse club",
+    "QUESTION": "What number represents a golden jubilee?",
+    "ANSWER": "50",
+    "COORD": {
+      "_latitude": 30.3564003,
+      "_longitude": 76.3590777
+    }
+  },
+  {
+    "LOCATION": "Hostel L",
+    "HINT": "Junglo ke beech hostel",
+    "QUESTION": "A honeycomb is nature's most efficient structure, made of cells with how many sides each?",
+    "ANSWER": "6",
+    "COORD": {
+      "_latitude": 30.3571516,
+      "_longitude": 76.3664286
+    }
+  },
+  {
+    "LOCATION": "Hostel Q Nirvana Gate",
+    "HINT": "The final gate. You're either leaving or arriving. Either way, it feels like a plot twist.",
+    "QUESTION": "SCRAMBLE: YRALRBI ; unscramble to find the place where books live and students sleep.",
+    "ANSWER": "LIBRARY",
+    "COORD": {
+      "_latitude": 30.3529197,
+      "_longitude": 76.3674097
+    }
+  }
+]
